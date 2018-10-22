@@ -1,0 +1,5 @@
+﻿  Main.c
+d:\facultate\teme\securitatea datelor\criptarecezar\criptarecezar\main.c(14): warning C4013: 'gets' undefined; assuming extern returning int
+d:\facultate\teme\securitatea datelor\criptarecezar\criptarecezar\main.c(37): warning C4013: 'getch' undefined; assuming extern returning int
+d:\facultate\teme\securitatea datelor\criptarecezar\criptarecezar\main.c(11): warning C4101: 'i': unreferenced local variable
+  CriptareCezar.vcxproj -> D:\Facultate\teme\securitatea datelor\CriptareCezar\Debug\CriptareCezar.exe
